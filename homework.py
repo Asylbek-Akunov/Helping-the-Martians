@@ -10,3 +10,5 @@ while True:
             print('Excellent! You have finded all boxes, total weight is', totweight)
         else:
             print('You have finded all boxes, but the weight is wrong')
+    else:
+        print('Locations are wrong. Boxes have moved')
